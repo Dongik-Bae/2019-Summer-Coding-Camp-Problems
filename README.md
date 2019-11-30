@@ -2,6 +2,7 @@
 
 ## * 개요
 2019년 경북대학교 전자공학부에서 시행한 여름 코딩캠프 문제에 대한 해답 코드이다. 문제는 파일 첨부 돼있다.
+
 담당 연구실 : [ARCHITECTURE AND COMPILER FOR EMBEDDED SYSTEMS LAB](http://www.aces.re.kr/aces/ "ARCHITECTURE AND COMPILER FOR EMBEDDED SYSTEMS LAB")
 
 ------------
@@ -333,8 +334,9 @@ typedef struct f
 	}
 ```
 다른 모든 변환도 위와 구성이 같다.
+
 ----------
-#### 7) 
+#### 7) 숫자의 
 ```c
 char name[13];
 	long long number = 0;
